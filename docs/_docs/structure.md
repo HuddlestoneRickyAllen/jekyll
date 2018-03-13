@@ -1,18 +1,9 @@
 ---
-title: Directory structure
+title: Huddlestone
 permalink: /docs/structure/
 ---
 
-Jekyll is, at its core, a text transformation engine. The concept behind the
-system is this: you give it text written in your favorite markup language, be
-that Markdown, Textile, or just plain HTML, and it churns that through a layout
-or a series of layout files. Throughout that process you can tweak how you want
-the site URLs to look, what data gets displayed in the layout, and more. This
-is all done through editing text files; the static web site is the final
-product.
-
-A basic Jekyll site usually looks something like this:
-
+Huddlestone is a family earning learning adding growing it's well rounded character!
 ```sh
 .
 ├── _config.yml
